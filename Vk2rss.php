@@ -54,7 +54,7 @@ class Vk2rss
     /**
      * Maximum title length in symbols
      */
-    const MAX_TITLE_LENGTH = 80;
+    const MAX_TITLE_LENGTH = 70;
     /**
      * Required minimum number of symbols in second or following paragraphs in order to use its for title
      */
